@@ -24,7 +24,7 @@ prefixCompression r s = [showCompression x | let p = sharedPrefix r s
                                                  x' = removePrefix p r
                                                  y' = removePrefix p s,
                                                  x <- [p,x',y']]
-  where showCompression x = (show $ length x) ++ " "++ x
+  where showCompression x = (show $ length x) ++ " " ++ x
 
 
 main :: IO()
