@@ -7,7 +7,7 @@ sharedPrefix _ [] = []
 sharedPrefix [] _ = []
 sharedPrefix (x:xs) (y:ys)
   | x == y    = x:sharedPrefix xs ys
-  | otherwise = sharedPrefix xs ys
+  | otherwise = []
 
 
 removePrefix :: String -> String -> String
