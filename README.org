@@ -1,0 +1,33 @@
+* Description
+
+This repository contains my solutions from [[https://www.hackerrank.com/lerax][HackerRank]] written in Haskell.
+For now, most of the solutions are from sections [[https://www.hackerrank.com/domains/algorithms/][`Algorithms`]] and [[https://www.hackerrank.com/domains/fp/][`Functional Programming (FP)`]].
+
+* Solutions
+
+| Solution                | Source                  | Category                  | Date added |
+|-------------------------+-------------------------+---------------------------+------------|
+| [[file:MiniMaxSum.hs][MiniMaxSum.hs]]           | [[https://www.hackerrank.com/challenges/mini-max-sum][Mini-Max Sum]]            | Algorithms/Warmup         | 07/11/17   |
+| [[file:TimeConversion.hs][TimeConversion.hs]]       | [[https://www.hackerrank.com/challenges/time-conversion][Time Conversion]]         | Algorithms/Warmup         | 07/11/17   |
+| [[file:CompareTheTriples.hs][CompareTheTriples.hs]]    | [[https://www.hackerrank.com/challenges/compare-the-triplets][Compare the Triplets]]    | Algorithms/Warmup         | 07/11/17   |
+| [[file:DiagonalDifference.hs][DiagonalDifference.hs]]   | [[https://www.hackerrank.com/challenges/diagonal-difference][Diagonal Difference]]     | Algorithms/Warmup         | 07/11/17   |
+| [[file:DivisibleSumPairs.hs][DivisibleSumPairs.hs]]    | [[https://www.hackerrank.com/challenges/divisible-sum-pairs][Divisible Sum Pairs]]     | Algorithms/Implementation | 07/11/17   |
+| [[file:RotateString.hs][RotateString.hs]]         | [[https://www.hackerrank.com/challenges/rotate-string][Rotate String]]           | FP/Ad-Hoc                 | 07/11/17   |
+| [[file:FilterElement.hs][FilterElement.hs]]        | [[https://www.hackerrank.com/challenges/filter-elements][Filter Elements]]*        | FP/Recursion              | 07/11/17   |
+| [[file:StringOPermute.hs][StringOPermute.hs]]       | [[https://www.hackerrank.com/challenges/string-o-permute][String-o Permute]]        | FP/Recursion              | 07/12/17   |
+| [[file:StringMingling.hs][StringMingling.hs]]       | [[https://www.hackerrank.com/challenges/string-mingling][String Mingling]]         | FP/Recursion              | 07/12/17   |
+| [[file:PrefixCompression.hs][PrefixCompression.hs]]    | [[https://www.hackerrank.com/challenges/prefix-compression][Prefix Compression]]      | FP/Recursion              | 07/12/17   |
+| [[file:SequenceOfFullColors.hs][SequenceOfFullColors.hs]] | [[https://www.hackerrank.com/challenges/sequence-full-of-colors][Sequence Of Full Colors]] | FP/Recursion              | 07/13/17   |
+| [[file:CaptainPrime.hs][CaptainPrime.hs]]         | [[https://www.hackerrank.com/challenges/captain-prime][Captain Prime]]           | FP/Ad-Hoc                 | 07/13/17   |
+| [[file:SumOfPowers.hs][SumOfPowers.hs]]          | [[https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers][The Sum of Powers]]       | FP/Recursion              | 07/13/17   |
+| [[file:SuperDigit.hs][SuperDigit.hs]]           | [[https://www.hackerrank.com/challenges/super-digit][Super Digit]]             | FP/Recursion              | 07/13/17   |
+| [[file:ValidBST.hs][ValidBST.hs]]             | [[https://www.hackerrank.com/challenges/valid-bst][Valid BST]]               | FP/Functional-Structures  | 07/13/17   |
+| [[file:ListsAndGCD.hs][ListsAndGCD.hs]]          | [[https://www.hackerrank.com/challenges/lists-and-gcd][Lists and GCD]]           | FP/Functional-Structures  | 07/13/17   |
+
+Solutions with suffix `*` need improvement in some way. Maybe you can help me?
+
+* Author
+Manoel Vilela
+
+* License
+MIT
