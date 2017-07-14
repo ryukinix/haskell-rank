@@ -1,4 +1,4 @@
--- String-O-Permute problem, permute characters two-in-two
+-- String-O-Permute: permute characters two-in-two @ HackerRank
 -- Solved in Wed 12 Jul 2017 04:52:03 AM -03
 -- Manoel Vilela
 

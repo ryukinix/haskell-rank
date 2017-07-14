@@ -1,4 +1,7 @@
--- Manoel Vilela @ HackerRank at 11/07/2017 01:47:00
+-- Diagonal Difference @ HackerRank
+-- Date: 11/07/2017 01:47:00
+-- Manoel Vilela
+
 import Control.Applicative
 import Control.Monad
 import System.IO

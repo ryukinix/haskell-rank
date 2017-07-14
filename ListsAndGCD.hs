@@ -1,3 +1,7 @@
+-- Lists and GCD @ HackerRank
+-- Date: Thu Jul 13 14:30:38 2017 -0300
+-- Manoel Vilela
+
 import Data.List (splitAt, intercalate)
 import Control.Monad (replicateM)
 

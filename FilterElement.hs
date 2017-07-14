@@ -1,3 +1,7 @@
+-- Filter Element @ HackerRank
+-- Date: Thu 11 Jul 2017
+-- Manoel Vilela
+
 import Data.List(nub, intercalate)
 import Control.Monad (replicateM)
 
