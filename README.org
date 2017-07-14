@@ -23,6 +23,7 @@ For now, most of the solutions are from sections [[https://www.hackerrank.com/do
 | [[file:SuperDigit.hs][SuperDigit.hs]]           | [[https://www.hackerrank.com/challenges/super-digit][Super Digit]]             | FP/Recursion              | 07/13/17   |
 | [[file:ValidBST.hs][ValidBST.hs]]             | [[https://www.hackerrank.com/challenges/valid-bst][Valid BST]]               | FP/Functional-Structures  | 07/13/17   |
 | [[file:ListsAndGCD.hs][ListsAndGCD.hs]]          | [[https://www.hackerrank.com/challenges/lists-and-gcd][Lists and GCD]]           | FP/Functional-Structures  | 07/13/17   |
+| [[file:MissingNumbersFp.hs][MissingNumbersFp.hs]]     | [[https://www.hackerrank.com/challenges/missing-numbers-fp][Missing Numbers]]         | FP/Ad-Hoc                 | 07/14/17   |
 
 Solutions with suffix `*` need improvement in some way. Maybe you can help me?
 
