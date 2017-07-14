@@ -13,7 +13,7 @@ For now, most of the solutions are from sections [[https://www.hackerrank.com/do
 | [[file:DiagonalDifference.hs][DiagonalDifference.hs]]   | [[https://www.hackerrank.com/challenges/diagonal-difference][Diagonal Difference]]     | Algorithms/Warmup         | 07/11/17   |
 | [[file:DivisibleSumPairs.hs][DivisibleSumPairs.hs]]    | [[https://www.hackerrank.com/challenges/divisible-sum-pairs][Divisible Sum Pairs]]     | Algorithms/Implementation | 07/11/17   |
 | [[file:RotateString.hs][RotateString.hs]]         | [[https://www.hackerrank.com/challenges/rotate-string][Rotate String]]           | FP/Ad-Hoc                 | 07/11/17   |
-| [[file:FilterElement.hs][FilterElement.hs]]        | [[https://www.hackerrank.com/challenges/filter-elements][Filter Elements]]*        | FP/Recursion              | 07/11/17   |
+| [[file:FilterElement.hs][FilterElement.hs]]*       | [[https://www.hackerrank.com/challenges/filter-elements][Filter Elements]]         | FP/Recursion              | 07/11/17   |
 | [[file:StringOPermute.hs][StringOPermute.hs]]       | [[https://www.hackerrank.com/challenges/string-o-permute][String-o Permute]]        | FP/Recursion              | 07/12/17   |
 | [[file:StringMingling.hs][StringMingling.hs]]       | [[https://www.hackerrank.com/challenges/string-mingling][String Mingling]]         | FP/Recursion              | 07/12/17   |
 | [[file:PrefixCompression.hs][PrefixCompression.hs]]    | [[https://www.hackerrank.com/challenges/prefix-compression][Prefix Compression]]      | FP/Recursion              | 07/12/17   |
