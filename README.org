@@ -27,6 +27,7 @@ For now, most of the solutions are from sections [[https://www.hackerrank.com/do
 | [[file:SubsetSum.hs][SubsetSum.hs]]                | [[https://www.hackerrank.com/challenges/subset-sum][Subset Sum]]                   | FP/Ad-Hoc                 | 07/14/17   |
 | [[file:NumberOfBinarySearchTree.hs][NumberOfBinarySearchTree.hs]] | Number of Binary Search Tree | FP/Dynamic Programming    | 07/16/17   |
 | [[file:OnceInaTram.hs][OnceInaTram.hs]]              | [[https://www.hackerrank.com/contests/w34/challenges/once-in-a-tram][Once in a tram]]               | Contest/W34               | 07/17/17   |
+| [[file:MaximumGCDAndSum.hs][MaximumGCDAndSum.hs]]         | [[https://www.hackerrank.com/contests/w34/challenges/maximum-gcd-and-sum][Maximum GCD and Sum]]          | Contest/W34               | 07/18/17   |
 
 Solutions with suffix `*` need improvement in some way. Maybe you can help me?
 
