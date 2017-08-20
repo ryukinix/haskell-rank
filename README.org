@@ -28,6 +28,7 @@ For now, most of the solutions are from sections [[https://www.hackerrank.com/do
 | [[file:NumberOfBinarySearchTree.hs][NumberOfBinarySearchTree.hs]] | Number of Binary Search Tree | FP/Dynamic Programming      | 07/16/17   |
 | [[file:OnceInaTram.hs][OnceInaTram.hs]]              | [[https://www.hackerrank.com/contests/w34/challenges/once-in-a-tram][Once in a tram]]               | Contest/W34                 | 07/17/17   |
 | [[file:MaximumGCDAndSum.hs][MaximumGCDAndSum.hs]]         | [[https://www.hackerrank.com/contests/w34/challenges/maximum-gcd-and-sum][Maximum GCD and Sum]]          | Contest/W34                 | 07/18/17   |
+| [[file:FibonacciModified.hs][FibonacciModified.hs]]        | [[https://www.hackerrank.com/challenges/fibonacci-modified][Fibonacci Modified]]           | Algorithms/DP               | 07/17/17   |
 | [[file:SumXOR.hs][SumXOR.hs]]                   | [[https://www.hackerrank.com/challenges/sum-vs-xor/problem][Sum vs XOR]]                   | Algorithms/Bit Manipulation | 08/20/17   |
 
 Solutions with suffix `*` need improvement in some way. Maybe you can help me?
