@@ -31,7 +31,7 @@ For now, most of the solutions are from sections [[https://www.hackerrank.com/do
 | [[file:FibonacciModified.hs][FibonacciModified.hs]]        | [[https://www.hackerrank.com/challenges/fibonacci-modified][Fibonacci Modified]]           | Algorithms/DP               | 07/17/17   |
 | [[file:SumXOR.hs][SumXOR.hs]]                   | [[https://www.hackerrank.com/challenges/sum-vs-xor/problem][Sum vs XOR]]                   | Algorithms/Bit Manipulation | 08/20/17   |
 
-Solutions with suffix `*` need improvement in some way. Maybe you can help me?
+Solutions with suffix `*` need improvement in some way. Maybe can you help me?
 
 * Author
 Manoel Vilela
